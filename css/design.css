@@ -1,0 +1,12 @@
+
+ @media (min-width: 768px) {
+    .projects .description {
+        margin-right: 10em;
+    }
+   
+}
+
+/* Styles for mobile phones (screen width 480px and below) */
+@media (max-width: 480px) {
+    
+}
